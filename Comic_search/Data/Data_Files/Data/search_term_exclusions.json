@@ -16,6 +16,7 @@
                 "SPANISH",
                 "SPAIN",
                 "PORTUGUESE",
+		"GERMAN",
                 "FOREIGN",
                 "ITALIAN",
                 "FIGURE",
@@ -31,7 +32,8 @@
                 "DISNEY",
                 "KEYCHAINS",
                 "KEYCHAIN",
-                "WALMART"
+                "WALMART",
+		"FOIL"
             ]
         },
         "cards": {
